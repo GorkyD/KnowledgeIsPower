@@ -455,9 +455,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 60960000
-      m_LastClickedID: 38496
-      m_ExpandedIDs: 5c9fffffaca0ffff
+      m_SelectedIDs: e20c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 66fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -577,23 +577,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Main
+    - Assets/CodeBase/Infrastructure
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "D:\\Torrent\\K Syndicate\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430
-    \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430
-    UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\02\\knowledge-is-power-master\\src\\KnowledgeIsPower"
+  m_LastProjectPath: D:\Git\KnowledgeIsPower
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8c580200
     m_LastClickedID: 153740
-    m_ExpandedIDs: ffffffff6c9500008a950000
+    m_ExpandedIDs: 000000009e680000a0680000a2680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -618,10 +616,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 164b0000
-    m_LastClickedID: 19222
-    m_ExpandedIDs: ffffffff6c9500008a950000
+    scrollPos: {x: 0, y: 132}
+    m_SelectedIDs: e20c0000
+    m_LastClickedID: 3298
+    m_ExpandedIDs: ffffffff000000009e680000a0680000a2680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -646,8 +644,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 164b0000
-    m_LastClickedInstanceID: 19222
+    m_SelectedInstanceIDs: e20c0000
+    m_LastClickedInstanceID: 3298
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
